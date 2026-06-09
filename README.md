@@ -1,15 +1,15 @@
 Database 
    |
-LLM generated SQL (1st version)
+feedback generated SQL (1st version)
    |
 Execute SQL
    |
-Reflection on SQL text
+Post Evaluated refractored
    |
 Execute again 
    |
 Reflection on actual output
    | 
-Improved SQL (version 2)
+Refined SQL(V2)
    |
 Final workflow
