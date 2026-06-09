@@ -1,6 +1,6 @@
 Database 
    |
-feedback generated SQL (1st version)
+Feedback generated SQL (1st version)
    |
 Execute SQL
    |
